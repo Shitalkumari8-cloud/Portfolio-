@@ -8,14 +8,10 @@
 - 🌱 Currently learning **programming basics & development**
 - 💡 Interested in **web development, coding & tech projects**
 - 🌟 Exploring GitHub & building my skills step-by-step
-- 🎯 Goal: Become a confident developer with strong projects
-
----
 
 ### 🚀 Skills (Currently Learning)
 - Programming Basics  
-- HTML / CSS  
-- Python / C  
+- HTML   
 - Git & GitHub (beginner)
 
 ---
@@ -23,16 +19,9 @@
 ### 📂 Current Projects
 - ⭐ Learning GitHub  
 - ⭐ Small practice codes  
-*(More coming soon...)*
 
 ---
 
 ### 📫 Connect with Me
 - GitHub: **https://github.com/shitalkumari8-cloud**
 
----
-
-### 💬 Quote
-> "Every expert was once a beginner – keep going, Shital!"
-
----
