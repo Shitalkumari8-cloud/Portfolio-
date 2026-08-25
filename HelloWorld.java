@@ -37,4 +37,27 @@ system.out.println(b + " is largest");
 }
 */
 
+Larget of three numbers
+Import java.util.scanner;
+public class LargestOfNumbers{
+public static void main(String[]args){
+Scanner sc = new scanner(System.in);
+System.out.print("Enter three number":);
+int a = sc.nextInt();
+int b = sc.nextInt();
+Int c = sc.nextInt();
+if (a>=b && a>=c) {
+System.out.println(a + " is largest");
+}
+else if ( b>=a && b>=c){
+System.out.println(b + " is largest");
+}else {
+System.out.println(c + " is largest");
+}
+}
+}
+
+
+
+
 
