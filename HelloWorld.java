@@ -20,7 +20,7 @@ System.out.println("Sum = " +Sum);
 */
 
 //Largest of TwoNumbers//
-Import Java.util.scanner;
+/*Import Java.util.scanner;
 public class LargestOfNumber{
 Public static void main(String[]args){
 Scanner sc = new scanner (System.in);
@@ -34,5 +34,6 @@ system.out.println(a + " is largest")
 system.out.println(b + " is largest");
 }
 }
+*/
 }
 
