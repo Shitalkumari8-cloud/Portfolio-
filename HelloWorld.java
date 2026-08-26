@@ -124,7 +124,8 @@ Scanner sc = new Scanner(System.in);
 System.out.print("Enter a number");
 int a = sc.nextInt();
 int sum = 0;
-for (int i=0,i<=a,i++){
+for (int i=0,i<=a,i++)
+{
 sum = sum + i;
 }
 System.out.println("sum=" + sum);
