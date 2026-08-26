@@ -110,11 +110,10 @@ case'/':
 System.out.println("Result = "+ (a/b));
 break;
 default:
-}
-}
-}
 system.out.println("Invalid operator");
-
+}
+}
+}
 
 
 
