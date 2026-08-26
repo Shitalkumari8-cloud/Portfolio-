@@ -72,7 +72,7 @@ System.out.print("Odd");
 }
 }*/
 //Leap year//
-Import java.util.scanner;
+/*Import java.util.scanner;
 public class LeapYear{
 public static void main(String[]args){
 scanner sc = new scanner(system.in);
@@ -85,7 +85,9 @@ System.out.println("Leap Year");
 }
 }
 }
-
+*/
+import java.util.scanner;
+public class calculator 
 
 
 
