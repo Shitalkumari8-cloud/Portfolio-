@@ -87,7 +87,10 @@ System.out.println("Leap Year");
 }
 */
 import java.util.scanner;
-public class calculator 
+public class calculator{
+public static void main(String[]args){
+scanner sc = new scanner(system.in);
+
 
 
 
