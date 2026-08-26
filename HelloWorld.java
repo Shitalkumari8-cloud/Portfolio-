@@ -86,13 +86,13 @@ System.out.println("Leap Year");
 }
 }
 */
-import java.util.scanner;
+import java.util.Scanner;
 public class calculator{
 public static void main(String[]args){
-scanner sc = new scanner(system.in);
-system.out.print("Enter first number")
+Scanner sc = new Scanner(System.in);
+System.out.print("Enter first number")
 int a = sc.nextInt();
-system.out.print("Enter operator (+,-,",/):);
+System.out.print("Enter operator (+,-,",/)":);
 char op = sc.next().charAt(0);
 system.out.print("Enter second number");
 int b = sc.nextInt();
@@ -101,13 +101,13 @@ case '+':
 system.out.println("Result = " + (a+b));
 break;
 case '-':
-system.out.println("Result = "+ (a-b));
+System.out.println("Result = "+ (a-b));
 break;
 case '*':
-system.out.println("Result = "+ (a*b));
+System.out.println("Result = "+ (a*b));
 break;
 case'/':
-system.out.println("Result = "+ (a/b));
+System.out.println("Result = "+ (a/b));
 break;
 default:
 }
