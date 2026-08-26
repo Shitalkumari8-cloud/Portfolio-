@@ -90,6 +90,31 @@ import java.util.scanner;
 public class calculator{
 public static void main(String[]args){
 scanner sc = new scanner(system.in);
+system.out.print("Enter first number")
+int a = sc.nextInt();
+system.out.print("Enter operator (+,-,",/):);
+char op = sc.next().charAt(0);
+system.out.print("Enter second number");
+int b = sc.nextInt();
+Switch (op){
+case '+':
+system.out.println("Result = " + (a+b));
+break;
+case '-':
+system.out.println("Result = "+ (a-b));
+break;
+case '*':
+system.out.println("Result = "+ (a*b));
+break;
+case'/':
+system.out.println("Result = "+ (a/b));
+break;
+default:
+}
+}
+}
+system.out.println("Invalid operator");
+
 
 
 
