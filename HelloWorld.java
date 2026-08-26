@@ -1,4 +1,4 @@
-⅚/*public class HelloWorld{
+/*public class HelloWorld{
 public static void main(String[]args){
 System.out.println("hello world");
 }
@@ -59,7 +59,7 @@ System.out.println(c + " is largest");
 */
 
 //Even or Odd//
-Import java.util.scanner;
+/*Import java.util.scanner;
 public class EvenOrOdd{
 public static void main(String[]args){
 Scanner sc = new scanner(System.in);
@@ -70,7 +70,23 @@ System.out.print("Even");
 System.out.print("Odd");
 }
 }
+}*/
+//Leap year//
+Import java.util.scanner;
+public class LeapYear{
+public static void main(String[]args){
+scanner sc = new scanner(system.in);
+System.out.print("Enter a year")
+Int year = sc.nextInt();
+If(year%400==0)||(year%4==0 && year%100!=0)
+System.out.println("Leap Year");
+        } else {
+            System.out.println("Not a Leap Year");
 }
+}
+}
+
+
 
 
 
