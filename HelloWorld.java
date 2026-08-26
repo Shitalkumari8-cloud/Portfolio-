@@ -117,7 +117,7 @@ system.out.println("Invalid operator");
 }
 */
 //Sum of First N Natural Numbers//
-import java.util.scanner;
+import java.util.Scanner;
 public class NaturalNumber{
 public static void main(String[]args){
 Scanner sc = new Scanner(System.in);
