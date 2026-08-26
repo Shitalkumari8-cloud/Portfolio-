@@ -86,7 +86,8 @@ System.out.println("Leap Year");
 }
 }
 */
-import java.util.Scanner;
+//Calculator//
+/*import java.util.Scanner;
 public class calculator{
 public static void main(String[]args){
 Scanner sc = new Scanner(System.in);
@@ -114,6 +115,7 @@ system.out.println("Invalid operator");
 }
 }
 }
+*/
 
 
 
